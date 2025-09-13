@@ -1,0 +1,15 @@
+#  Sensitive Files
+.env
+
+#  Node Modules
+node_modules/
+
+# ⚙️ System Files
+.DS_Store
+Thumbs.db
+
+#  Logs
+logs
+*.log
+npm-debug.log*
+
